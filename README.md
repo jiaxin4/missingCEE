@@ -16,7 +16,7 @@ The code for the simulations with log link is [simulation_loglink_nonparametric.
 
 ## 2. Data analysis on HeartSteps
 
-The data is publicly available at https://github.com/ klasnja/HeartStepsV1/tree/main/data_files. The preprocessing code to prepare the dataset is [DA_preprocessing.R](DA_preprocessing.R).
+The data is publicly available at https://github.com/klasnja/HeartStepsV1/tree/main/data_files. The preprocessing code to prepare the dataset is [DA_preprocessing.R](DA_preprocessing.R).
 
 #### Continuous outcome (Section 7 in the paper)
 
