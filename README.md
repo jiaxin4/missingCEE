@@ -9,9 +9,11 @@ Section 1 provides a detailed guide on how to reproduce the simulation results i
 
 ## 1. Simulation Replication
 
-The code for the simulations with identity link is with nonparametric estimation is [simulation_identitylink_nonparametric.R] (simulation_identitylink_nonparametric.R) (Section 5 in the paper). The code for the simulations with identity link is with parametric estimation and  [simulation_identitylink_parametric.R](simulation_identitylink_parametric.R). 
+The code for the simulations with identity link and nonparametric estimation for nuisance models is [simulation_identitylink_nonparametric.R](simulation_identitylink_nonparametric.R) (Section 5 in the paper). 
+The code for the simulations with identity link and parametric estimation for nuisance models is [simulation_identitylink_parametric.R](simulation_identitylink_parametric.R). 
 
-The code for the simulations with log link is [simulation_loglink_nonparametric.R](simulation_loglink_nonparametric.R) and  [simulation_loglink_parametric.R](simulation_loglink_parametric.R). 
+The code for the simulations with log link and nonparametric estimation for nuisance models is [simulation_loglink_nonparametric.R](simulation_loglink_nonparametric.R).
+The code for the simulations with log link and parametric estimation for nuisance models is [simulation_loglink_parametric.R](simulation_loglink_parametric.R). 
 
 
 ## 2. Data analysis on HeartSteps
