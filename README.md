@@ -19,11 +19,11 @@ Section 1 provides a detailed guide on how to reproduce the simulation results i
 
 The data is publicly available at https://github.com/klasnja/HeartStepsV1/tree/main/data_files. The preprocessing code to prepare the dataset is [DA_preprocessing.R](DA_preprocessing.R).
 
-#### Continuous outcome (Section 7 in the paper)
+- #### Continuous outcome (Section 7 in the paper)
 
 Code is [DA_continous_outcome.R](DA_continous_outcome.R) with functions from [DA_functions_continuous_outcome.R](DA_functions_continuous_outcome.R). 
 
-#### Binary outcome (Section E in the supplementary material)
+- #### Binary outcome (Section E in the supplementary material)
 
 Code is [DA_binary_outcome.R](DA_binary_outcome.R) with functions from [DA_functions_binary_outcome.R](DA_functions_binary_outcome.R). 
 
