@@ -23,7 +23,7 @@ The data is publicly available at https://github.com/klasnja/HeartStepsV1/tree/m
 
 Code is [DA_continous_outcome.R](DA_continous_outcome.R) with functions from [DA_functions_continuous_outcome.R](DA_functions_continuous_outcome.R). 
 
-- #### Binary outcome (Section E in the supplementary material)
+- #### Binary outcome (Section F in the supplementary material)
 
 Code is [DA_binary_outcome.R](DA_binary_outcome.R) with functions from [DA_functions_binary_outcome.R](DA_functions_binary_outcome.R). 
 
