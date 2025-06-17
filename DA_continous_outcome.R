@@ -2,7 +2,7 @@ rm(list = ls())
 library(MRTAnalysis)
 library(knitr)
 dat <- readRDS("suggestion_cleaned.RDS")
-source("DA_functions_241006.R")
+source("DA_functions_continuous_outcome.R")
 library(rootSolve) 
 library(mgcv)
 library(tidyverse)
@@ -19,7 +19,7 @@ params_list <- list(list("original_missing"),
 
 ###########################
 
-miss_percent_list <- c(0, 10, 20, 30, 40)[1:length(params_list)]
+miss_percent_list <- c(0, 10, 20, 30)
 
 dat_marginal <- dat_moderated_time <- dat_moderated_weekday <- c()
 for (i_miss in 1:length(params_list)){

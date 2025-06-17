@@ -21,7 +21,7 @@ set.seed(123)
 
 ###########################
 
-miss_percent_list <- c(0, 10, 20, 30, 40)[1:(1 + length(params_list))]
+miss_percent_list <- c(0, 10, 20, 30)
 
 dat_marginal <- dat_moderated_time <- dat_moderated_weekday  <- c()
 for (i_miss in 1:length(params_list)){
